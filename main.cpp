@@ -134,7 +134,7 @@ void gameOver() {
 }
 
 int main() {
-    cout << "--- MISSÃO: ESCAPE DA ATLAS ---\n";
+    cout << "--- MISSÃO: ESTAÇÃO VÁCUO ---\n";
     cena1();
     return 0;
 }
