@@ -5,7 +5,7 @@
  * AUTORES: [Arthur Ferraz de Aquino]
  * [Vicenzo Radin]
  * DATA: 14/04/2026
- * PROJETO: RPG LIVRO-JOGO "ESTAÇÃO VÁCUO"
+ * PROJETO: RPG LIVRO-JOGO "ESTAÇÃO ATLAS"
  ******************************************************************************/
 #include <iostream>
 #include <string>
@@ -143,7 +143,7 @@ void gameOver() {
 }
 
 int main() {
-    cout << "--- MISSÃO: ESTAÇÃO VÁCUO ---\n";
+    cout << "--- MISSÃO: ESTAÇÃO ATLAS ---\n";
     cena1();
     return 0;
 }
