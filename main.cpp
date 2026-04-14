@@ -1,3 +1,12 @@
+/******************************************************************************
+ * UNIVERSIDADE DO VALE DO ITAJAÍ (UNIVALI)
+ * CURSO: CIÊNCIA DA COMPUTAÇÃO
+ * DISCIPLINA: ALGORITMOS E PROGRAMAÇÃO
+ * * AUTORES: [Arthur Ferraz de Aquino]
+ * [Vicenzo Radin]
+ * * DATA: 14/04/2026
+ * PROJETO: RPG LIVRO-JOGO "ESTAÇÃO VÁCUO"
+ ******************************************************************************/
 #include <iostream>
 #include <string>
 
